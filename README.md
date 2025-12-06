@@ -28,3 +28,5 @@ myrrhq-news
 - **2025-12-06 @ 18:29**: [Market Analysis](strategy_20251205_230947.md)
 
 - **2025-12-06 @ 18:31**: [Market Analysis](strategy_20251206_003522.md)
+
+- **2025-12-06 @ 18:41**: [Market Analysis | General Update](strategy_20251206_004329.md)
