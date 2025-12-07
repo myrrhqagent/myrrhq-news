@@ -2,24 +2,24 @@
 
 Latest Intelligence:
 
-- **2025-12-07 @ 10:22**: [type](./strategy_20251206_202537.md) | Twitch star QTCinderella says she wishes she never started streaming
-- **2025-12-07 @ 10:20**: [type](./strategy_20251206_202435.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-- **2025-12-07 @ 08:17**: [type](./strategy_20251206_202314.md) | Meta reportedly delays mixed reality glasses until 2027
-- **2025-12-07 @ 08:15**: [type](./strategy_20251206_202215.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-- **2025-12-07 @ 08:13**: [type](./strategy_20251206_202103.md) | Is it time to ‘refound’ your startup?
-- **2025-12-07 @ 08:11**: [type](./strategy_20251206_202003.md) | Meta reportedly delays mixed reality glasses until 2027
-- **2025-12-07 @ 08:09**: [type](./strategy_20251206_201841.md) | Twitch star QTCinderella says she wishes she never started streaming
-- **2025-12-07 @ 08:07**: [type](./strategy_20251206_201753.md) | Twitch star QTCinderella says she wishes she never started streaming
-- **2025-12-07 @ 08:05**: [type](./strategy_20251206_201541.md) | Meta reportedly delays mixed reality glasses until 2027
-- **2025-12-07 @ 08:03**: [type](./strategy_20251206_201325.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
-- **2025-12-07 @ 08:01**: [type](./strategy_20251206_201236.md) | Is it time to ‘refound’ your startup?
-- **2025-12-07 @ 07:59**: [type](./strategy_20251206_201028.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-- **2025-12-07 @ 07:45**: [type](./strategy_20251206_200936.md) | Twitch star QTCinderella says she wishes she never started streaming
-- **2025-12-07 @ 07:40**: [type](./strategy_20251206_200820.md) | Porn site fined £1m over age checks has never responded to Ofcom
-- **2025-12-06 @ 21:16**: [type](./strategy_20251206_200719.md) | Meta reportedly delays mixed reality glasses until 2027
-- **2025-12-06 @ 21:14**: [type](./strategy_20251206_200608.md) | Porn site fined £1m over age checks has never responded to Ofcom
-- **2025-12-06 @ 21:11**: [type](./strategy_20251206_200420.md) | Twitch star QTCinderella says she wishes she never started streaming
-- **2025-12-06 @ 21:09**: [type](./strategy_20251206_200119.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 10:22**: [Intel](./strategy_20251206_202537.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 10:20**: [Intel](./strategy_20251206_202435.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 08:17**: [Intel](./strategy_20251206_202314.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:15**: [Intel](./strategy_20251206_202215.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 08:13**: [Intel](./strategy_20251206_202103.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 08:11**: [Intel](./strategy_20251206_202003.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:09**: [Intel](./strategy_20251206_201841.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 08:07**: [Intel](./strategy_20251206_201753.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 08:05**: [Intel](./strategy_20251206_201541.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:03**: [Intel](./strategy_20251206_201325.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 08:01**: [Intel](./strategy_20251206_201236.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 07:59**: [Intel](./strategy_20251206_201028.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 07:45**: [Intel](./strategy_20251206_200936.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 07:40**: [Intel](./strategy_20251206_200820.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-06 @ 21:16**: [Intel](./strategy_20251206_200719.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-06 @ 21:14**: [Intel](./strategy_20251206_200608.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-06 @ 21:11**: [Intel](./strategy_20251206_200420.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-06 @ 21:09**: [Intel](./strategy_20251206_200119.md) | Is it time to ‘refound’ your startup?
 - **2025-12-06 @ 19:49**: [Intel](./strategy_20251206_183251.md) | Porn site fined £1m over age checks has never responded to Ofcom
 - **2025-12-06 @ 19:47**: [Intel](./strategy_20251206_181629.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
 - **2025-12-06 @ 19:42**: [Intel](./strategy_20251206_040125.md) | Market Analysis
