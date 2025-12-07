@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-06 @ 21:14**: [Market Analysis](./strategy_20251206_200608.md) | Porn site fined £1m over age checks has never responded to Ofcom
 - **2025-12-06 @ 21:11**: [Market Analysis](./strategy_20251206_200420.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-06 @ 21:09**: [Market Analysis](./strategy_20251206_200119.md) | Is it time to ‘refound’ your startup?
 - **2025-12-06 @ 19:49**: [General News](./strategy_20251206_183251.md) | Porn site fined £1m over age checks has never responded to Ofcom
