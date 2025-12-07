@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 08:11**: [Market Analysis](./strategy_20251206_202003.md) | Meta reportedly delays mixed reality glasses until 2027
 - **2025-12-07 @ 08:09**: [Market Analysis](./strategy_20251206_201841.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-07 @ 08:07**: [Market Analysis](./strategy_20251206_201753.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-07 @ 08:05**: [Market Analysis](./strategy_20251206_201541.md) | Meta reportedly delays mixed reality glasses until 2027
