@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 07:40**: [Market Analysis](./strategy_20251206_200820.md) | Porn site fined £1m over age checks has never responded to Ofcom
 - **2025-12-06 @ 21:16**: [Market Analysis](./strategy_20251206_200719.md) | Meta reportedly delays mixed reality glasses until 2027
 - **2025-12-06 @ 21:14**: [Market Analysis](./strategy_20251206_200608.md) | Porn site fined £1m over age checks has never responded to Ofcom
 - **2025-12-06 @ 21:11**: [Market Analysis](./strategy_20251206_200420.md) | Twitch star QTCinderella says she wishes she never started streaming
