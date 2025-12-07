@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 10:22**: [Market Analysis](./strategy_20251206_202537.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-07 @ 10:20**: [Market Analysis](./strategy_20251206_202435.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
 - **2025-12-07 @ 08:17**: [Market Analysis](./strategy_20251206_202314.md) | Meta reportedly delays mixed reality glasses until 2027
 - **2025-12-07 @ 08:15**: [Market Analysis](./strategy_20251206_202215.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
