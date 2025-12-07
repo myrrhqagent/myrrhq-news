@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 16:16**: [Market Analysis](./strategy_20251206_203157.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
 - **2025-12-07 @ 16:09**: [Market Analysis](./strategy_20251206_202716.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
 - **2025-12-07 @ 10:22**: [Market Analysis](./strategy_20251206_202537.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-07 @ 10:20**: [Market Analysis](./strategy_20251206_202435.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
