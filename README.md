@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-06 @ 19:47**: [General News](./strategy_20251206_181629.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
 - **2025-12-06 @ 19:42**: [General News](./strategy_20251206_040125.md) | Market Analysis
 - **2025-12-06 @ 19:35**: [General News](./strategy_20251206_035154.md) | Market Analysis
 - **2025-12-06 @ 19:33**: [General News](./strategy_20251206_033055.md) | Market Analysis
