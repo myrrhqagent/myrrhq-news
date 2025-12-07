@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 16:29**: [Market Analysis](./strategy_20251206_203414.md) | [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](./strategy_20251206_203414.md)
 - **2025-12-07 @ 16:16**: [Market Analysis](./strategy_20251206_203259.md) | [Meta reportedly delays mixed reality glasses until 2027](./strategy_20251206_203259.md)
 - **2025-12-07 @ 16:16**: [Market Analysis](./strategy_20251206_203157.md) | [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](./strategy_20251206_203157.md)
 - **2025-12-07 @ 16:09**: [Market Analysis](./strategy_20251206_202716.md) | [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](./strategy_20251206_202716.md)
