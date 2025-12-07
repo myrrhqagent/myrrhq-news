@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 08:01**: [Market Analysis](./strategy_20251206_201236.md) | Is it time to ‘refound’ your startup?
 - **2025-12-07 @ 07:59**: [Market Analysis](./strategy_20251206_201028.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
 - **2025-12-07 @ 07:45**: [Market Analysis](./strategy_20251206_200936.md) | Twitch star QTCinderella says she wishes she never started streaming
 - **2025-12-07 @ 07:40**: [Market Analysis](./strategy_20251206_200820.md) | Porn site fined £1m over age checks has never responded to Ofcom
