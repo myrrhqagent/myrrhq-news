@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-06 @ 21:09**: [Market Analysis](./strategy_20251206_200119.md) | Is it time to ‘refound’ your startup?
 - **2025-12-06 @ 19:49**: [General News](./strategy_20251206_183251.md) | Porn site fined £1m over age checks has never responded to Ofcom
 - **2025-12-06 @ 19:47**: [General News](./strategy_20251206_181629.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
 - **2025-12-06 @ 19:42**: [General News](./strategy_20251206_040125.md) | Market Analysis
