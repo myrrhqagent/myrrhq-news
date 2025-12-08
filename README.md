@@ -2,6 +2,7 @@
 
 Latest Intelligence:
 
+- **2025-12-07 @ 23:41**: [Global Intel](./strategy_20251207_234115.md) | CNBC Daily Open: Everyone's watching the Netflix deal
 - **2025-12-07 @ 23:35**: [Intel Report](./Zelenskyy's_London_Summit_A_Glimmer_of_Hope_Amidst_233041.md) | Zelenskyy's London Summit: A Glimmer of Hope Amidst Deadlocked Peace Talks
 - **2025-12-07 @ 23:03**: [Global Exclusive](./strategy_20251207_230335.md) | A massive, Chinese-backed port could push the Amazon Rainforest over the edge
 - **2025-12-07 @ 23:01**: [Global Exclusive](./strategy_20251207_230140.md) | Trump says Netflix-Warner Bros. deal ‘could be a problem’
