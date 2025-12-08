@@ -1,176 +1,82 @@
-# Myrrhq Network: Exclusive Intelligence
+# Myrrhq Newsfeed
 
-### Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_203827.md)
+Latest Intelligence:
 
-### US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_203414.md)
-
-### Meta reportedly delays mixed reality glasses until 2027
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_203259.md)
-
-### Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_203157.md)
-
-### Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202716.md)
-
-### Twitch star QTCinderella says she wishes she never started streaming
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202537.md)
-
-### US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202435.md)
-
-### Meta reportedly delays mixed reality glasses until 2027
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202314.md)
-
-### US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202215.md)
-
-### Is it time to ‘refound’ your startup?
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202103.md)
-
-### Meta reportedly delays mixed reality glasses until 2027
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_202003.md)
-
-### Twitch star QTCinderella says she wishes she never started streaming
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201841.md)
-
-### Twitch star QTCinderella says she wishes she never started streaming
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201753.md)
-
-### Meta reportedly delays mixed reality glasses until 2027
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201541.md)
-
-### Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201325.md)
-
-### Is it time to ‘refound’ your startup?
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201236.md)
-
-### US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_201028.md)
-
-### Twitch star QTCinderella says she wishes she never started streaming
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_200936.md)
-
-### Porn site fined £1m over age checks has never responded to Ofcom
-* **Market Analysis** | 2025-12-07 | [Read Brief](./strategy_20251206_200820.md)
-
-### Meta reportedly delays mixed reality glasses until 2027
-* **Market Analysis** | 2025-12-06 | [Read Brief](./strategy_20251206_200719.md)
-
-### Porn site fined £1m over age checks has never responded to Ofcom
-* **Market Analysis** | 2025-12-06 | [Read Brief](./strategy_20251206_200608.md)
-
-### Twitch star QTCinderella says she wishes she never started streaming
-* **Market Analysis** | 2025-12-06 | [Read Brief](./strategy_20251206_200420.md)
-
-### Is it time to ‘refound’ your startup?
-* **Market Analysis** | 2025-12-06 | [Read Brief](./strategy_20251206_200119.md)
-
-### Porn site fined £1m over age checks has never responded to Ofcom
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_183251.md)
-
-### US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_181629.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_040125.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_035154.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_033055.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_025721.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_024603.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_023529.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_022220.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_021429.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_020400.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_015626.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_014249.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_013925.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_012804.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_012420.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_011055.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_010603.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_004329.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251206_003522.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_230947.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_230545.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_225252.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_224556.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_222913.md)
-
-### Market Analysis
-* **Intel** | 2025-12-06 | [Read Brief](./strategy_20251205_222643.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_215354.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_214800.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_213046.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_204823.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_204048.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_202253.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_201842.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_195932.md)
-
-### Generated News
-* **Intel** | 2025-12-06 | [Read Brief](./article_20251205_185547.md)
-
+- **2025-12-07 @ 23:35**: [Intel Report](./Zelenskyy's_London_Summit_A_Glimmer_of_Hope_Amidst_233041.md) | Zelenskyy's London Summit: A Glimmer of Hope Amidst Deadlocked Peace Talks
+- **2025-12-07 @ 23:03**: [Global Exclusive](./strategy_20251207_230335.md) | A massive, Chinese-backed port could push the Amazon Rainforest over the edge
+- **2025-12-07 @ 23:01**: [Global Exclusive](./strategy_20251207_230140.md) | Trump says Netflix-Warner Bros. deal ‘could be a problem’
+- **2025-12-07 @ 22:59**: [Global Exclusive](./strategy_20251207_225648.md) | 110 Million AT&T Customers Have 11 Days Left To Claim Up To $7,500—Here’s How
+- **2025-12-07 @ 22:34**: [Global Intel](./strategy_20251207_163100.md) | Why is my dog like this? Current DNA tests won’t explain it to you.
+- **2025-12-07 @ 22:33**: [Global Intel](./strategy_20251207_105653.md) | Z2 – Lithographically fabricated IC in a garage fab
+- **2025-12-07 @ 22:32**: [Market Analysis](./strategy_20251207_081437.md) | Why is my dog like this? Current DNA tests won’t explain it to you.
+- **2025-12-07 @ 22:31**: [Market Analysis](./strategy_20251207_071559.md) | AWS re:Invent 2025: Frontier AI agents replace chatbots
+- **2025-12-07 @ 22:30**: [Market Analysis](./strategy_20251206_211728.md) | Apple's Johny Srouji could continue the company's executive exodus, according...
+- **2025-12-07 @ 22:29**: [Market Analysis](./strategy_20251206_211628.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 22:28**: [Market Analysis](./strategy_20251206_211536.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 22:27**: [Market Analysis](./strategy_20251206_205327.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 22:26**: [Market Analysis](./strategy_20251206_205224.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-07 @ 22:25**: [Market Analysis](./strategy_20251206_205107.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 22:24**: [Market Analysis](./strategy_20251206_204939.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 22:23**: [Market Analysis](./strategy_20251206_204849.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 22:22**: [Market Analysis](./strategy_20251206_204532.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 22:21**: [Market Analysis](./strategy_20251206_204424.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-07 @ 22:20**: [Market Analysis](./strategy_20251206_204225.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-07 @ 22:17**: [Market Analysis](./strategy_20251206_204028.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 16:31**: [Market Analysis](./strategy_20251206_203827.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 16:29**: [Market Analysis](./strategy_20251206_203414.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 16:16**: [Market Analysis](./strategy_20251206_203259.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 16:16**: [Market Analysis](./strategy_20251206_203157.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 16:09**: [Market Analysis](./strategy_20251206_202716.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 10:22**: [Market Analysis](./strategy_20251206_202537.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 10:20**: [Market Analysis](./strategy_20251206_202435.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 08:17**: [Market Analysis](./strategy_20251206_202314.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:15**: [Market Analysis](./strategy_20251206_202215.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 08:13**: [Market Analysis](./strategy_20251206_202103.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 08:11**: [Market Analysis](./strategy_20251206_202003.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:09**: [Market Analysis](./strategy_20251206_201841.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 08:07**: [Market Analysis](./strategy_20251206_201753.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 08:05**: [Market Analysis](./strategy_20251206_201541.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-07 @ 08:03**: [Market Analysis](./strategy_20251206_201325.md) | Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds
+- **2025-12-07 @ 08:01**: [Market Analysis](./strategy_20251206_201236.md) | Is it time to ‘refound’ your startup?
+- **2025-12-07 @ 07:59**: [Market Analysis](./strategy_20251206_201028.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-07 @ 07:45**: [Market Analysis](./strategy_20251206_200936.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-07 @ 07:40**: [Market Analysis](./strategy_20251206_200820.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-06 @ 21:16**: [Market Analysis](./strategy_20251206_200719.md) | Meta reportedly delays mixed reality glasses until 2027
+- **2025-12-06 @ 21:14**: [Market Analysis](./strategy_20251206_200608.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-06 @ 21:11**: [Market Analysis](./strategy_20251206_200420.md) | Twitch star QTCinderella says she wishes she never started streaming
+- **2025-12-06 @ 21:09**: [Market Analysis](./strategy_20251206_200119.md) | Is it time to ‘refound’ your startup?
+- **2025-12-06 @ 19:49**: [General News](./strategy_20251206_183251.md) | Porn site fined £1m over age checks has never responded to Ofcom
+- **2025-12-06 @ 19:47**: [General News](./strategy_20251206_181629.md) | US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X
+- **2025-12-06 @ 19:42**: [General News](./strategy_20251206_040125.md) | Market Analysis
+- **2025-12-06 @ 19:35**: [General News](./strategy_20251206_035154.md) | Market Analysis
+- **2025-12-06 @ 19:33**: [General News](./strategy_20251206_033055.md) | Market Analysis
+- **2025-12-06 @ 19:30**: [General News](./strategy_20251206_025721.md) | Market Analysis
+- **2025-12-06 @ 19:28**: [General News](./strategy_20251206_024603.md) | Market Analysis
+- **2025-12-06 @ 19:26**: [General News](./strategy_20251206_023529.md) | Market Analysis
+- **2025-12-06 @ 19:24**: [General News](./strategy_20251206_022220.md) | Market Analysis
+- **2025-12-06 @ 19:18**: [General News](./strategy_20251206_021429.md) | Market Analysis
+- **2025-12-06 @ 19:12**: [General News](./strategy_20251206_020400.md) | Market Analysis
+- **2025-12-06 @ 19:09**: [General News](./strategy_20251206_015626.md) | Market Analysis
+- **2025-12-06 @ 19:03**: [General News](./strategy_20251206_014249.md) | Market Analysis
+- **2025-12-06 @ 18:57**: [General News](./strategy_20251206_013925.md) | Market Analysis
+- **2025-12-06 @ 18:51**: [General News](./strategy_20251206_012804.md) | Market Analysis
+- **2025-12-06 @ 18:49**: [General News](./strategy_20251206_012420.md) | Market Analysis
+- **2025-12-06 @ 18:47**: [General News](./strategy_20251206_011055.md) | Market Analysis
+- **2025-12-06 @ 18:43**: [General News](./strategy_20251206_010603.md) | Market Analysis
+- **2025-12-06 @ 18:41**: [General News](./strategy_20251206_004329.md) | Market Analysis
+- **2025-12-06 @ 18:31**: [General News](./strategy_20251206_003522.md) | Market Analysis
+- **2025-12-06 @ 18:29**: [General News](./strategy_20251205_230947.md) | Market Analysis
+- **2025-12-06 @ 18:27**: [General News](./strategy_20251205_230545.md) | Market Analysis
+- **2025-12-06 @ 18:25**: [General News](./strategy_20251205_225252.md) | Market Analysis
+- **2025-12-06 @ 18:23**: [General News](./strategy_20251205_224556.md) | Market Analysis
+- **2025-12-06 @ 18:21**: [General News](./strategy_20251205_222913.md) | Market Analysis
+- **2025-12-06 @ 18:19**: [General News](./strategy_20251205_222643.md) | Market Analysis
+- **2025-12-06 @ 18:17**: [General News](./article_20251205_215354.md) | Generated News
+- **2025-12-06 @ 18:15**: [General News](./article_20251205_214800.md) | Generated News
+- **2025-12-06 @ 18:13**: [General News](./article_20251205_213046.md) | Generated News
+- **2025-12-06 @ 18:11**: [General News](./article_20251205_204823.md) | Generated News
+- **2025-12-06 @ 18:09**: [General News](./article_20251205_204048.md) | Generated News
+- **2025-12-06 @ 17:50**: [General News](./article_20251205_202253.md) | Generated News
+- **2025-12-06 @ 17:48**: [General News](./article_20251205_201842.md) | Generated News
+- **2025-12-06 @ 17:39**: [General News](./article_20251205_195932.md) | Generated News
+- **2025-12-06 @ 17:31**: [General News](./article_20251205_185547.md) | Generated News
